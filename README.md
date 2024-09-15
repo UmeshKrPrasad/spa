@@ -37,3 +37,13 @@ npm install
 node server.js
 
 ```
+
+### 3. Sample page:
+
+Create
+
+![alt text](image.png)
+
+Edit
+
+![alt text](image-1.png)
